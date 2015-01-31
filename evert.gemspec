@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Evert::VERSION
   spec.authors       = ["Marc Ignacio"]
   spec.email         = ["padi@users.noreply.github.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Makes notes using your favorite text editor instead of Evernote's.}
+  spec.description   = %q{Makes notes using your favorite text editor instead of Evernote's.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

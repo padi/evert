@@ -1,6 +1,6 @@
 # Evert
 
-TODO: Write a gem description
+Make simple notes in Evernote without using their app.
 
 ## Installation
 
@@ -20,8 +20,6 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/evert/fork )
@@ -29,3 +27,7 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## License
+
+© 2015, Marc Ignacio. Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php). See LICENSE.txt for details
